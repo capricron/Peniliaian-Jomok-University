@@ -9,4 +9,4 @@ Karena hal tersebut memakan waktu, Pak amba ingin membuat aplikasi sederhana. Da
 
 Bantulah Pak amba untuk membuat aplikasi yang bisa memenuhi kebutuhannya itu atau tidak nanti kamu akan diberi pop mie
 
-<img align="center" alt="HTML" width="auto" src="https://www.popmie.com/uploads/product/rasa-ayam-bawang_text.png">
+![Pop Mie](https://www.popmie.com/uploads/product/rasa-ayam-bawang_text.png)
